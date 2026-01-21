@@ -1,0 +1,72 @@
+[
+  {
+    "q": "¿Cuál es el paradigma económico que se caracteriza por su falta de consideración hacia el reciclaje y la reutilización, siguiendo un esquema de extracción, producción, consumo y desecho?",
+    "options": [
+      "Modelo de Negocio Circular",
+      "Economía Circular",
+      "Economía Sostenible",
+      "Modelo de Economía Lineal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "¿Qué porcentaje aproximado del impacto ambiental de un producto se determina durante la fase de diseño?",
+    "options": [
+      "Menos del 50%",
+      "El 60%",
+      "Más del 80%",
+      "La totalidad del impacto se determina en la fase de desecho."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "¿Cuál es el principal objetivo de la Economía Circular?",
+    "options": [
+      "Aumentar la producción de residuos",
+      "Mantener el valor de los productos y materiales durante el mayor tiempo posible",
+      "Reducir el precio de los productos de un solo uso",
+      "Fomentar la extracción ilimitada de recursos naturales"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "¿Qué estrategia es prioritaria en la jerarquía de residuos?",
+    "options": [
+      "El reciclaje",
+      "La incineración",
+      "La prevención y reducción",
+      "El vertedero"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "¿Qué significa el término 'Obsolescencia Programada'?",
+    "options": [
+      "Una técnica para hacer productos que duren para siempre",
+      "La planificación del fin de la vida útil de un producto para obligar al consumidor a comprar uno nuevo",
+      "Un programa de reciclaje gubernamental",
+      "El diseño de software libre"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "¿Cuál de los siguientes NO es un principio de la Economía Circular?",
+    "options": [
+      "Diseñar sin residuos ni contaminación",
+      "Regenerar los sistemas naturales",
+      "Maximizar la venta de plásticos de un solo uso",
+      "Mantener los productos y materiales en uso"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "¿Qué es el 'Upcycling' o supra-reciclaje?",
+    "options": [
+      "Tirar basura en zonas altas",
+      "Transformar residuos en objetos de mayor valor que el original",
+      "Reciclar solo vidrio",
+      "Quemar residuos para obtener energía"
+    ],
+    "answer": 1
+  }
+]

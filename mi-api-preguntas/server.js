@@ -1,0 +1,16 @@
+const express = require('express');
+const cors = require('cors');
+const QUESTIONS = require('./questions.json');
+
+const app = express();
+const port = process.env.PORT || 3000;
+
+app.use(cors());
+
+app.get('/api/questions', (req, res) => {
+    res.json(QUESTIONS);
+});
+
+app.listen(port, () => {
+    console.log(`API escuchando en http://localhost:${port}`);
+});
