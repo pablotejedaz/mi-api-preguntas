@@ -11,8 +11,10 @@ app.get('/api/questions', (req, res) => {
     res.json(QUESTIONS);
 });
 
-app.listen(port, () => {
-    console.log(`API escuchando en http://localhost:${port}`);
-});
+if (require.main === module) {
+    app.listen(port, () => {
+        console.log(`API escuchando en http://localhost:${port}`);
+    });
+}
 
 module.exports = app;
